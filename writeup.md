@@ -25,6 +25,10 @@ When we drive, the lane markings on the road are our visual references to steer 
 * Warp the detected lane boundaries back onto the original image.
 * Annotate image with numerical estimation of lanes curvatures and vehicle position.
 
+<p align="center">
+  <img width="300"  src="./pipeline_chart.png">
+</p>
+
 ## **Explanation**
 
 **Compute camera calibration using chessboard images**
